@@ -1,0 +1,70 @@
+﻿prefix: §bSky§dBlock §8§l>>
+buildisland: §eFree island are on searching!
+buildisland2: §athis take a bit time...
+notallowed: §cYou are not Leader!
+foundisland: §6We found a Island for you!
+teleportisland: §6You were teleport to your island.
+noisland: §cYou dont have island! §4§l/island create
+deleteisland: §c§lYou deleted your island.
+alreadyisland: §7You already created an island!
+waitingisland: §e§lWaiting...your island is creating....
+notodelete: §7You cant leave your island!
+inforequest: §eYou send a request.
+gotrequest: §eYou got a request from <player>.
+inforequesttimeout: §7He/She §ndidnt§7 accept your request!
+gotrequesttimeout: §7Your request was &ltime out&7!
+inviteself: §cYou cant invite yourself!
+playernotonline: §7Player is not online.
+notleader: §cYou are not leader.
+joinalreadyleader: §8Type /is delete
+joinalreadymember: §8Type /is leave
+joinislandinfo: §eYou joined <arg-2> island.
+joinislandgot: §e<player> is joined to your island.
+norequest: §7You dont have any request.
+targetmissing: §7<arg-2> cant receive the request.
+infodelete: §8Type /is delete for delete your island.
+gotkickcausedelete: §8You got kicked because leader deleted his island.
+islandleave: §8You left your island.
+skyblockgrass: §b§lSky§3§lblock
+locked: §4§lCooming soon...
+skyblockgrasslore: §9§lStart an island!
+skyblockexp: §6§lIsland §e§llevel
+skyblockchallenge: §a§lChallenge books
+skyblocktop: §c§lBest top §n10§c§l island
+skyblockvote: §d§lReward loots!
+skyblockhub: §6§lTeleport you to §nhub§6.
+skyblocktop10: §lHere are top 10!
+skyblocklevel: §eIsland Level §7§l- §6
+rewardvote: §bVote for Diamond
+rewardwoods: §6Wooden Crates
+rewardenchant: §5Enchant Crates
+rewardender: §3Ender Crates
+rewardunknown: §4Unknown Crates
+nopermission: §c§lYou dont have permission!
+cantfoundplayer: §7Can't find <player>.
+infokicked: §8You kick <arg-2> from your island.
+gotkicked: §8You got kicked by <player> from island.
+islandair: §cWarning, your homepoint is air!
+sucesssethome: Erfolgreich Home erstellt.
+islandhomecancel: Du bist net in dein Insel.
+numbermissing: §cPlease enter a number! Not a text!
+pagenotfound: §cSorry, but this Page doesn't exist. There is only %{_page}% page.
+helptitel: §m-----------§r§l<§dHelp§7/§bHilfe§f§l>§m-----------
+helpsite: §cOnly between 1-3!
+helpsite2: Site
+iscreate: §6§l> §e§lInsel erstellen §7- '§c/is create§7'
+isdelete: §6§l> §e§lInsel löschen §7- '§c/is delete§7'
+isteleport: §6§l> §e§lInsel teleportieren §7- '§c/is home§7'
+issethome: §6§l> §e§lInsel Standort verändern §7- '§c/is sethome§7'
+isteleportgo: §6§l> §e§lInsel Grundstein teleportieren §7- '§c/is go§7'
+islevel: §6§l> §e§lInsel Stufe/Level §7- '§c/is ""exp/level""§7'
+istop: §6§l> §e§lInsel Top §7- '§c/is top <Seite/Anzahl>§7'
+isinvite: §6§l> §e§lSpieler einladen §7- '§c/is invite <spielername>§7'
+iskick: §6§l> §e§lSpieler rauswerfen §7- '§c/is kick <spielername>§7'
+isjoin: §6§l> §e§lInsel joinen §7- '§c/is join <spielername>§7'
+isleave: §6§l> §e§lInsel verlassen §7- '§c/is leave§7'
+isgui: §6§l> §e§lSkyblock GUI §7- '§c/is§7'
+isloots: §6§l> §e§lSkyblock Belohnung §7- '§c/is ""rewards/loots""§7'
+isspawn: §6§l> §e§lHauptinsel teleportieren §7- '§c/is spawn§7'
+iscredits: §6§l> §e§lInsel Credits §7- '§c/is credits§7'
+protect: This region is protect!
