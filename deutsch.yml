@@ -67,4 +67,6 @@ isgui: §6§l> §e§lSkyblock GUI §7- '§c/is§7'
 isloots: §6§l> §e§lSkyblock Belohnung §7- '§c/is ""rewards/loots""§7'
 isspawn: §6§l> §e§lHauptinsel teleportieren §7- '§c/is spawn§7'
 iscredits: §6§l> §e§lInsel Credits §7- '§c/is credits§7'
-protect: This region is protect!
+protect: Diese Gebiet ist geschütz!
+kickwhileclearing: Server ist am neustarten. Nimm dir eine Tasse Kaffee!
+pvp: §cPvP ist aus!
