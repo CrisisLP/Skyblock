@@ -1,4 +1,4 @@
-﻿prefix: §bSky§dBlock §8§l>>
+prefix: §bSky§dBlock §8§l>>
 buildisland: §eFree island are on searching!
 buildisland2: §athis take a bit time...
 notallowed: §cYou are not Leader!
@@ -68,3 +68,5 @@ isloots: §6§l> §e§lSkyblock Belohnung §7- '§c/is ""rewards/loots""§7'
 isspawn: §6§l> §e§lHauptinsel teleportieren §7- '§c/is spawn§7'
 iscredits: §6§l> §e§lInsel Credits §7- '§c/is credits§7'
 protect: This region is protect!
+kickwhileclearing: Server is restarting. Take a coffee!
+pvp: §cPvP is currently disabled!
